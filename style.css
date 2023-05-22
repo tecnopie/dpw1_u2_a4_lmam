@@ -1,0 +1,19 @@
+h1,p {
+    color: white;
+    margin-left: 30px;
+	text-align: center;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+	background-color: orange;
+}
+body{
+    background-color:rgba(255, 221, 0, 0.065);
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+	background-color: orange;
+	text-align: center;
+}
